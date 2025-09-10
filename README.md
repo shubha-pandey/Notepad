@@ -26,7 +26,9 @@ This notepad application allows you to create, open, edit, and save text files.
 
 ## Screenshots
 
+<!--
 > **Tip:** Upload your screenshots to the repository (e.g., in a folder named `screenshots`) and update the image links below.
+-->
 
 ![Notepad Snapshot 1](Assets/Notepad_Black.png)
 ![Notepad Snapshot 2](Assets/Notepad_White.png)
